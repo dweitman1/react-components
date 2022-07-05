@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(63, 127, 191);
+}
+
+fieldset {
+  width: 60%;
+  height: 20%;
+  border: 10px solid rgb(0, 0, 255);
+  border-radius: 20px;
+  padding: 5%;
+  margin: auto;
+  background-color: white;
+}
+button {
+  border: none;
+  color: white;
+  background-color: #008cba;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: darkblue;
+}
+#myCanvas {
+  border: 1px solid #000000;
+}
